@@ -1,2 +1,4 @@
 # ignore all files with the name desktop.ini
 desktop.ini
+# ignore all files in the folder Seraph of the End ~ Vampire Reign Original Soundtrack
+Seraph of the End ~ Vampire Reign Original Soundtrack/*
